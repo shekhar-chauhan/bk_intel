@@ -1,0 +1,2 @@
+add the test file in <igt>/tests/<test-name.c>.
+edit the <igt>/tests/meson.build and add the <test-name> into test_progs_list and build.
